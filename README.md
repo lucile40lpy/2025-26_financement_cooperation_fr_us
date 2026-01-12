@@ -1,0 +1,1 @@
+Git-Hub du projet **Structures de financement dans la coopération scientifique franco-américaine (1995-2025)** réalisé par Elsa Bidant, Eloïse Delerue, Lucile Lapray, Alice N'gbesso et Léna Rebours, dans le cadre du cours *Sciences Sociales Computationnelles* dispensé par Vincent Lépinay en CPES 3 DAC (PSL - LLG).
